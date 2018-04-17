@@ -1,0 +1,7 @@
+﻿  Snake.cpp
+c:\users\michael\source\repos\snake\snake\snake.cpp(113): warning C4102: 'defualt': unreferenced label
+c:\users\michael\source\repos\snake\snake\snake.cpp(88): warning C4101: 'litera': unreferenced local variable
+c:\users\michael\source\repos\snake\snake\snake.cpp(243): warning C4309: '=': truncation of constant value
+c:\users\michael\source\repos\snake\snake\snake.cpp(288): warning C4018: '<': signed/unsigned mismatch
+c:\users\michael\source\repos\snake\snake\snake.cpp(330): warning C4102: 'defualt': unreferenced label
+  Snake.vcxproj -> C:\Users\Michael\source\repos\Snake\Debug\Snake.exe
